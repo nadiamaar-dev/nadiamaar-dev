@@ -7,7 +7,7 @@
 Costruisco **e-commerce su misura, portali B2B e applicazioni web** per aziende italiane.
 Un solo interlocutore dalla strategia al codice in produzione: architettura, frontend, integrazioni, SEO tecnica.
 
-[nadiamaar.dev](https://www.nadiamaar.dev) · [Blog](https://www.nadiamaar.dev/blog) · [Demo](https://www.nadiamaar.dev/foundry) · [Contatti](https://www.nadiamaar.dev/contatti) · nadiamaar.dev@gmail.com
+[nadiamaar.dev](https://www.nadiamaar.dev) · [LinkedIn](https://www.linkedin.com/in/nadiamaar/) · [Blog](https://www.nadiamaar.dev/blog) · [Demo](https://www.nadiamaar.dev/foundry) · [Contatti](https://www.nadiamaar.dev/contatti) · nadiamaar.dev@gmail.com
 
 ---
 
@@ -79,6 +79,7 @@ I build **custom e-commerce, B2B portals and web applications** for Italian and 
 - **Services:** [custom e-commerce](https://www.nadiamaar.dev/en/ecommerce) · [web apps](https://www.nadiamaar.dev/en/web-app) · [AI integration](https://www.nadiamaar.dev/en/ai) · [technical SEO](https://www.nadiamaar.dev/en/seo) · [corporate sites](https://www.nadiamaar.dev/en/corporate)
 - **Live demos, no sign-up:** [nadiamaar.dev/en/foundry](https://www.nadiamaar.dev/en/foundry)
 - **Stack:** TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Tailwind CSS, Shopify, Vercel
+- **LinkedIn:** [linkedin.com/in/nadiamaar](https://www.linkedin.com/in/nadiamaar/)
 - **Contact:** [nadiamaar.dev/en/contatti](https://www.nadiamaar.dev/en/contatti) — reply within 24 working hours, first 30-minute call is free.
 
 </details>
