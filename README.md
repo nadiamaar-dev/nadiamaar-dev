@@ -1,5 +1,5 @@
 <a href="https://www.nadiamaar.dev">
-  <img src="https://www.nadiamaar.dev/api/og?slug=%2F&locale=it" alt="Nadia Maar — sviluppo e-commerce, web app e AI su misura" width="100%">
+  <img src="banner.png" alt="Nadia Maar — sviluppo e-commerce, web app e AI su misura" width="100%">
 </a>
 
 ## Nadia Maar — full-stack developer & digital architect
